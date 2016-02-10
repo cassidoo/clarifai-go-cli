@@ -7,9 +7,9 @@ A simple Go-based command line interface for the [Clarifai](http://clarifai.com/
 ##To Run
 
 First, make sure you have [Go](https://golang.org/dl/) installed, and your
-[`GOPATH`](https://golang.org/doc/code.html#GOPATH) and GOBIN is set up.
+[`GOPATH`](https://golang.org/doc/code.html#GOPATH) and `GOBIN` is set up.
 
-If you're not sure how to set up your GOPATH and GOBIN, here's how I have it set
+If you're not sure how to set up your `GOPATH` and `GOBIN`, here's how I have it set
 up in my bash profile:
 
 ```
